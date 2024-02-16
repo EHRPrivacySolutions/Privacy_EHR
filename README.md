@@ -1,5 +1,7 @@
 # 🛡️ Privacy-Preserving Machine Learning for Electronic Health Records 🛡️
 
+![Security_1](https://github.com/EHRPrivacySolutions/Privacy_EHR/assets/103202628/71c0a1d5-0b89-47f0-a1fa-583c781322f3)
+
 ## 📄 Abstract
 This research project aims to address the critical need for privacy in healthcare data, focusing on Electronic Health Records (EHR). We explore the development of a machine learning framework that maintains patient privacy while enabling the advanced analysis of healthcare data.
 
